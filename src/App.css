@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.username{
+ color: rgb(246, 243, 82);
+ display: flex;
+ 
+
+
+}
+
+body{
+display: flex;
+justify-content: center;
+ background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
